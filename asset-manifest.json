@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/ootd/static/css/main.5b888a40.css",
+    "main.js": "/ootd/static/js/main.05810b96.js",
+    "static/js/787.c93a2131.chunk.js": "/ootd/static/js/787.c93a2131.chunk.js",
+    "static/media/banner01.jpg": "/ootd/static/media/banner01.12d692104e84a642463c.jpg",
+    "static/media/banner02.jpg": "/ootd/static/media/banner02.bf5e0627cd9b1e82c69f.jpg",
+    "static/media/banner01.png": "/ootd/static/media/banner01.ca57e8492d7c5cd16dda.png",
+    "static/media/cardImg.jpg": "/ootd/static/media/cardImg.49e8e7627fb90e0d458f.jpg",
+    "index.html": "/ootd/index.html",
+    "main.5b888a40.css.map": "/ootd/static/css/main.5b888a40.css.map",
+    "main.05810b96.js.map": "/ootd/static/js/main.05810b96.js.map",
+    "787.c93a2131.chunk.js.map": "/ootd/static/js/787.c93a2131.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b888a40.css",
+    "static/js/main.05810b96.js"
+  ]
+}
